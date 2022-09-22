@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Артём Сергеев](https://up.htmlacademy.ru/htmlcss/35/user/1769747).
-* Наставник: `Неизвестно`.
+* Студент: [Артём Сергеев](https://htmlacademy.ru/htmlcss/35/user/1769747).
+* Наставник: [Станислав Михайлов](https://htmlacademy.ru/profile/id139638).
 
 ---
 
